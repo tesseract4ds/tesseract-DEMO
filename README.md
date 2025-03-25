@@ -1,4 +1,4 @@
 # tesseract-DEMO
 My first Git Repository
 <br>
-Author : Animesh Pathak
+Author : Animesh Pathak(IITM BS)
